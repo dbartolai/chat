@@ -14,3 +14,11 @@
 - Understand how to use LangGraph for quicker iteration
 - Implement LangGRaph into Neuron to make edits easier
 
+### To Run:
+---
+- Clone repo
+- Install dependencies from requirements.txt
+`pip3 install -r requirements.txt`
+- Create .env and store your openai api key
+`OPENAI_API_KEY=...`
+
