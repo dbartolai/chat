@@ -5,7 +5,6 @@ from langchain.chat_models import init_chat_model
 from langgraph.checkpoint.memory import MemorySaver
 from typing import TypedDict, List, Optional
 from dotenv import load_dotenv
-import json
 
 load_dotenv()
 
